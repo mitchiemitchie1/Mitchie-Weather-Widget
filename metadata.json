@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Kawaii Weather",
+  "description": "A cute, widget-style weather app that uses Gemini Grounding to find your local temperature and real feel.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
